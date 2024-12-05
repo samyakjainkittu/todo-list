@@ -1,0 +1,28 @@
+
+.col-2{
+    margin-top: -18px;
+}
+input {
+    width: 100%;
+}
+
+.item-container{
+    text-align: left ;
+}
+
+.skrow{
+    margin: 40px 5px;
+}
+
+.skbutton{
+    min-width: 80px; 
+    margin: 10px;
+}
+
+/* 
+.add-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+} */
